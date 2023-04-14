@@ -32,4 +32,4 @@ while True:
     time.sleep(20)
 
 
-#for Windows, run cmd /c scriptName.pyw 1>NUL 2>&1 on PowerShell
+#for Windows, run cmd /c scriptName.pyw 1>NUL 2>&1 on Power
