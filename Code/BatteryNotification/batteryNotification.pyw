@@ -29,6 +29,7 @@ while True:
     else:
         pass
 
-    time.sleep(60)
+    time.sleep(20)
 
 
+#for Windows, run cmd /c scriptName.pyw 1>NUL 2>&1 on PowerShell
