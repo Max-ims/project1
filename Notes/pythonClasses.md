@@ -40,7 +40,8 @@ why _number?
 - double leading (__foo) are used to avoid the variable getting overridden in subclasses. (see link for more defn: https://towardsdatascience.com/whats-the-meaning-of-single-and-double-underscores-in-python-3d27d57d6bd1)
 
 > collaborating classes
-
+- Law of Demeter
+- is an OOP principle that says *you should never call methods you received from other calls or put in another way, (only talk to your friends)*
 > decomposing problems
 
 > separating interface and implementation
