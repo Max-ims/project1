@@ -1,3 +1,0 @@
----PROJECT IDEAS---
-
-NOTES
